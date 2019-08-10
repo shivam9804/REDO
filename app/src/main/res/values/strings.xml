@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ReDo</string>
+    <string name="gender">Gender</string>
+    <string name="jeans_trousers"><![CDATA[Jeans & Trousers]]></string>
+    <string name="jackets_coats"><![CDATA[Jackets & Coats]]></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="less_then_15k">less then 15k</string>
+    <string name="body_type">Body Type</string>
+    <string name="other">Other</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="overall_budget">Overall Budget</string>
+    <string name="r15k_30k">15k - 30k</string>
+    <string name="gt15k"> greater than 15k </string>
+    <string name="r30k_50k">30k - 50k</string>
+    <string name="gt50k">greater than 50k</string>
+    <string name="dresses">Dresses</string>
+</resources>

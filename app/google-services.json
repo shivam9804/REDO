@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "306571594452",
+    "firebase_url": "https://redo-ac90f.firebaseio.com",
+    "project_id": "redo-ac90f",
+    "storage_bucket": "redo-ac90f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306571594452:android:2fdea40cb9589fb4",
+        "android_client_info": {
+          "package_name": "com.redo.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306571594452-484iftpanbl5otbu44ar4afsd6j464oc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.redo.application",
+            "certificate_hash": "51a6994a729295652b7fc039703b761a6f5498c9"
+          }
+        },
+        {
+          "client_id": "306571594452-r96k5di0vvvrdfv807udjhb4ond8ppf8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.redo.application",
+            "certificate_hash": "d05dd188ba1c957681a48c2426518ece2cd1f33a"
+          }
+        },
+        {
+          "client_id": "306571594452-rhqjc034maga9bflb5a4ulud7s7vaph0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCelLReR7v5Gf_DHHeuef3ZTEpLMsneZzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306571594452-rhqjc034maga9bflb5a4ulud7s7vaph0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
